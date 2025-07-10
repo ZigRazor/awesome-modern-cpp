@@ -249,6 +249,7 @@ C++ Benchmark Authoring Library/Framework.
 * [Conduit](https://github.com/LoopPerfect/conduit) - High Performance Streams Based on Coroutine TS.
 * [cppitertools](https://github.com/ryanhaining/cppitertools) - itertools (python) implementation for C++14
 * [cxxopts](https://github.com/jarro2783/cxxopts) -  Lightweight C++ command line option parser.
+* [CXXGraph](https://github.com/ZigRazor/CXXGraph) -  Header-Only C++ Library for Graph Representation and Algorithms.
 * [date](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header.
 * [docopt.cpp](https://github.com/docopt/docopt.cpp) - docopt creates beautiful command-line interfaces.
 * [EnTT](https://github.com/skypjack/entt) - A header-only, fast and, reliable entity-component system (ECS) for modern C++.
